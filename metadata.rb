@@ -1,0 +1,7 @@
+name             'omnibus_build'
+maintainer       'Stoned Elipot'
+maintainer_email 'stoned.elipot@gmail.com'
+license          'Public domain'
+description      'ad hoc Chef cookbook to build an Omnibus package'
+long_description 'ad hoc Chef cookbook to build an Omnibus package'
+version          '0.2.0'

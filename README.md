@@ -6,7 +6,7 @@ with the help of test-kitchen and kitchen-vagrant.
 
 Requirements
 ------------
-This cookbook had only been tested with Omnibus 4.0.0.
+This cookbook had been tested with Omnibus 4.0.0 and 5.1.0.
 
 Recipes
 -------
